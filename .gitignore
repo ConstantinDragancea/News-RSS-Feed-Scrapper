@@ -1,3 +1,10 @@
+# The virtual environment
+news_scrapper/
+.idea
+
+
+# Github default generated --------------------
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
